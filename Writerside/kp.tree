@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="kp"
+                 name="Katalon Platform "
+                 start-page="katalon-platform.md">
+
+    <toc-element topic="About-Katalon-Platform.md"/>
+    <toc-element topic="Get-started-with-katalon-platform.md"/>
+</instance-profile>
